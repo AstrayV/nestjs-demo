@@ -2,7 +2,7 @@
 
 ## Description
 
-description
+nestjs 的 小demo. 包含了注册，登录，swagger以及 jwt 验证功能.
 
 ## Installation
 
