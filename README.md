@@ -1,4 +1,4 @@
-# test-project
+# nestjs-demo
 
 ## Description
 
